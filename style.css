@@ -4107,6 +4107,12 @@
         text-align: right;
     }
 
+    @media only screen and (max-width: 767px) {
+        .why-choose-us-img-1 {
+            width: 250px;
+        }
+    }
+
     .why-choose-us-img-1 figure,
     .why-choose-us-img-2 figure,
     .why-choose-us-img-1 img,
